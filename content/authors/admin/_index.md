@@ -1,5 +1,5 @@
 ---
-title: Chuyao (Julian) WANG
+title: Chuyao WANG
 role: Student in Computational Social Science
 avatar_filename: chuyao-wang-1_1.jpg
 bio: My research interests include human digital behavior, social networks and
