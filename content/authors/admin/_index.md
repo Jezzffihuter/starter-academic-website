@@ -47,6 +47,6 @@ Welcome! This is Chuyao (Julian) WANG. I am currently an M.Phil. student in [Soc
 
 I have been conducting several independent and collaborative studies, which are broadly about public opinion, social networks, and image as data. I presented in the [Summer Institute in Computational Social Science](https://sicss.io/) in 2021 and led a project funded by [Social Science Research Council](https://www.ssrc.org/). I enjoy meeting people and collaborating with others.
 
-Beyond academics, I am interested in hiking, alternative history, and petty adventures.
+Beyond academia, I am interested in hiking, alternative history, music with sociopolitical meanings, and petty adventures.
 
 Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Dec2021.pdf) here. Please also [email me](<mailto: chuyao.wang@connect.ust.hk>) for a chat if you are interested.
