@@ -1,6 +1,7 @@
 ---
 title: Chuyao (Julian) WANG
 role: Student in Computational Social Science
+avatar_filename: chuyao-wang-1_1.jpg
 bio: My research interests include human digital behavior, social networks and
   image-as-data.
 interests:
@@ -9,19 +10,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:chuyao.wang@connect.ust.hk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/wang_chuyao
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Jezzffihuter
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wang-chuyao/
 organizations: []
 education:
   courses:
