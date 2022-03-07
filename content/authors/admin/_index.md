@@ -43,7 +43,7 @@ email: chuyao.wang@connect.ust.hk
 superuser: true
 highlight_name: false
 ---
-Welcome! This is Chuyao (Julian) WANG. I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) at the Hong Kong University of Science and Technology (HKUST), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University. I am grateful for my interdisciplinary background and diverse methods training. 
+Welcome! I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) at the Hong Kong University of Science and Technology (HKUST), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University. I am grateful for my interdisciplinary background and diverse methods training. 
 
 I have been conducting several independent and collaborative studies, which are broadly about public opinion, social networks, and image as data. I presented in the [Summer Institute in Computational Social Science](https://sicss.io/) in 2021 and led a project funded by [Social Science Research Council](https://www.ssrc.org/). I enjoy meeting people and collaborating with others.
 
