@@ -5,7 +5,7 @@ author: admin
 widget_id: about-page
 headless: true
 weight: 10
-title: Biography
+title: ""
 design:
   background:
     image: ""
