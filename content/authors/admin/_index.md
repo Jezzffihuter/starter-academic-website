@@ -26,14 +26,14 @@ organizations: []
 education:
   courses:
     - course: M.Phil in Social Science
-      institution: Hong Kong University of Science and Technology (HKUST)
-      year: ""
+      institution: Hong Kong University of Science and Technology
+      year: 2022
     - course: M.Sc. in Global China Studies
-      institution: HKUST
-      year: ""
+      institution: Hong Kong University of Science and Technology
+      year: 2020
     - course: B.A. in History
       institution: Shandong University
-      year: -1
+      year: 2020
 email: chuyao.wang@connect.ust.hk
 superuser: true
 highlight_name: false
