@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/wang-chuyao/
 organizations:
-  - name: Hong Kong University of Science and Technology
-    url: https://hkust.edu.hk/
+  - name: Division of Social Science, HKUST
+    url: https://sosc.hkust.edu.hk/
 education:
   courses:
     - course: M.Phil. in Social Science
