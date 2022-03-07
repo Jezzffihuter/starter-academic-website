@@ -6,7 +6,8 @@ bio: My research interests include human digital behavior, social networks and
   image-as-data.
 interests:
   - Human Digital Behavior
-  - Social Networks and Image-as-data
+  - Social Networks
+  - Image-as-Data
 social:
   - icon: envelope
     icon_pack: fas
