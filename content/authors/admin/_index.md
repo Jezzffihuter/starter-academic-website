@@ -24,7 +24,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/wang-chuyao/
-organizations: []
+organizations:
+  - name: Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
 education:
   courses:
     - course: M.Phil. in Social Science
