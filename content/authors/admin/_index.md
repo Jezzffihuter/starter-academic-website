@@ -5,7 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include human digital behavior, social networks and
   image-as-data.
 interests:
-  - Human Digital Behavior
+  - Computational Social Science
+  - Public Opinion
   - Social Networks
   - Image as Data
 social:
