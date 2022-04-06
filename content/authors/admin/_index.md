@@ -32,7 +32,7 @@ education:
   courses:
     - course: Ph.D. in Social Research Methods
       institution: London School of Economics and Political Science
-      year: 2024
+      year: 2026
     - course: M.Phil. in Social Science
       institution: Hong Kong University of Science and Technology
       year: 2022
