@@ -30,6 +30,9 @@ organizations:
     url: https://sosc.hkust.edu.hk/
 education:
   courses:
+    - course: Ph.D. in Social Research Methods
+      institution: London School of Economics and Political Science
+      year: 2024
     - course: M.Phil. in Social Science
       institution: Hong Kong University of Science and Technology
       year: 2022
@@ -39,9 +42,6 @@ education:
     - course: B.A. in History
       institution: Shandong University
       year: 2020
-    - course: Ph.D. in Social Research Methods
-      institution: London School of Economics and Political Science
-      year: 2024
 email: chuyao.wang@connect.ust.hk
 superuser: true
 highlight_name: false
