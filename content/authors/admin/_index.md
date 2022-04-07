@@ -46,7 +46,7 @@ email: chuyao.wang@connect.ust.hk
 superuser: true
 highlight_name: false
 ---
-Welcome! I am an incoming research student [](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods)at the London School of Economics and Political Science (LSE) as a prospective Ph.D. in [Social Research Methods](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods) funded by [LSE PhD Studentship](https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships) (£160,000). 
+Welcome! I am an incoming research student [](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods)at the London School of Economics and Political Science (LSE) as a prospective Ph.D. in [Social Research Methods](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods) (i.e., Applied Data Science) funded by [LSE PhD Studentship](https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships) (£160,000). 
 
 I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) at the Hong Kong University of Science and Technology (HKUST), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University. I am grateful for my interdisciplinary background and diverse methods training. 
 
