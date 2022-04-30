@@ -30,16 +30,16 @@ organizations:
     url: https://sosc.hkust.edu.hk/
 education:
   courses:
-    - course: Ph.D. in Social Research Methods (Applied Data Science)
+    - course: Doctor of Philosophy in Social Research Methods (Applied Data Science)
       institution: London School of Economics and Political Science
       year: 2026
-    - course: M.Phil. in Social Science
+    - course: Master of Philosophy in Social Science (Social Statistics)
       institution: Hong Kong University of Science and Technology
       year: 2022
-    - course: M.Sc. in Global China Studies
+    - course: Master of Science in Global China Studies
       institution: Hong Kong University of Science and Technology
       year: 2020
-    - course: B.A. in History
+    - course: Bachelor of Art in History
       institution: Shandong University
       year: 2020
 email: chuyao.wang@connect.ust.hk
@@ -48,7 +48,7 @@ highlight_name: false
 ---
 Welcome! I am an incoming research student [](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods)at the London School of Economics and Political Science (LSE) as a prospective Ph.D. in [Social Research Methods](https://www.lse.ac.uk/Methodology/Study/PhD-Social-Research-Methods/PhD-Social-Research-Methods) (Applied Data Science) funded by [LSE PhD Studentship](https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships) (£160,000). 
 
-I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) at the Hong Kong University of Science and Technology (HKUST) with [Postgraduate Studentship](https://pg.ust.hk/current-students/awards-and-grants/postgraduate-studentship) (HK$430,000), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University. I am grateful for my interdisciplinary background and diverse methods training. 
+I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) (Social Statistics) at the Hong Kong University of Science and Technology (HKUST) with [Postgraduate Studentship](https://pg.ust.hk/current-students/awards-and-grants/postgraduate-studentship) (HK$430,000), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University. I am grateful for my interdisciplinary background and diverse methods training. 
 
 I have been conducting independent and collaborative studies, which are broadly about public opinion, social networks, and image as data. I presented and led a funded project in the [Summer Institute in Computational Social Science](https://sicss.io/) (2021). I enjoy meeting people and collaborating with others.
 
