@@ -29,9 +29,6 @@ organizations:
     url: https://sosc.hkust.edu.hk/
 education:
   courses:
-    - course: Doctor of Philosophy in Social Research Methods (Applied Data Science)
-      institution: London School of Economics and Political Science
-      year: 2026
     - course: Master of Philosophy in Social Science (Social Statistics)
       institution: Hong Kong University of Science and Technology
       year: 2022
