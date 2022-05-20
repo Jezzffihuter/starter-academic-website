@@ -4,7 +4,7 @@ role: Student in computational social science
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Computational Social Science
+  - Applied Data Science
   - Public Opinion
   - Social Networks
   - Image as Data
@@ -46,6 +46,6 @@ Welcome! I am currently an M.Phil. student in [Social Science](https://sosc.hkus
 
 I have been conducting independent and collaborative studies, which are broadly about public opinion, social networks, and image as data. I presented and led a funded project in the [Summer Institute in Computational Social Science](https://sicss.io/) (2021). I enjoy meeting people and collaborating with others.
 
-Beyond academia, my interests include hiking, socially significant music and petty discoveries in life.
+Beyond academia, my interests include hiking, socially significant music and petty discoveries in life. 
 
-Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Dec2021.pdf) here. Please also [email me](<mailto: chuyao.wang@connect.ust.hk>) for a chat if you are interested.
+Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Complete-May2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/Resume-ChuyaoWANG-LSE-May2022.pdf) (professional) here. Please also [email me](<mailto: chuyao.wang@connect.ust.hk>) for a chat if you are interested.
