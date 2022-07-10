@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: Doctor of Philosophy in Social Research Methods (Applied Data Science)
-      institution: London School of Economics
+      institution: London School of Economics and Political Science
       year: 2026
     - course: Master of Philosophy in Social Science (Social Statistics)
       institution: Hong Kong University of Science and Technology
@@ -45,7 +45,7 @@ email: chuyao.wang@connect.ust.hk
 superuser: true
 highlight_name: false
 ---
-Welcome! I am a prospective Ph.D. in [Social Research Methods](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MPhilPhD-Social-Research-Methods) (Applied Data Science) at the London School of Economics (LSE), supervised by [Prof. Patrick Sturgis](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Sturgis/Patrick-Sturgis) and [Dr. Blake Miller](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Blake-Miller/Blake-Miller), and funded by [LSE Ph.D. Studentship](https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships) (£160,000).
+Welcome! I am a prospective Ph.D. in [Social Research Methods](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MPhilPhD-Social-Research-Methods) (Applied Data Science) at the London School of Economics and Political Science (LSE), supervised by [Prof. Patrick Sturgis](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Sturgis/Patrick-Sturgis) and [Dr. Blake Miller](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Blake-Miller/Blake-Miller), and funded by [LSE Ph.D. Studentship](https://www.lse.ac.uk/study-at-lse/graduate/fees-and-funding/phd-studentships) (£160,000).
 
 I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) (Social Statistics) at the Hong Kong University of Science and Technology (HKUST) with [Postgraduate Studentship](https://pg.ust.hk/current-students/awards-and-grants/postgraduate-studentship) (HK$430,000), studying political communication and computational methods. I obtained an M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST, and a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University in China. I am grateful for my interdisciplinary background and diverse methods training. 
 
