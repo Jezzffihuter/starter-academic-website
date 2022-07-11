@@ -12,15 +12,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:chuyao.wang@connect.ust.hk
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/wang-chuyao/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wang_chuyao
   - icon: github
     icon_pack: fab
     link: https://github.com/Jezzffihuter
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/wang-chuyao/
 organizations:
   - name: Division of Social Science, HKUST
     url: https://sosc.hkust.edu.hk/
