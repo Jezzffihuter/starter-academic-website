@@ -48,6 +48,6 @@ I am currently an M.Phil. student in [Social Science](https://sosc.hkust.edu.hk/
 
 I have been conducting independent and collaborative studies, which are broadly about public opinion, social networks, and image as data. I presented and led a funded project in the [Summer Institute in Computational Social Science](https://sicss.io/) (2021). I enjoy meeting people and collaborating with others.
 
-Beyond academia, my interests include comparative economic history, hiking, socially significant music and petty discoveries in life. Brought up in the innovative city Shenzhen, I am conceived in progressive liberalism and cosmopolitanism.
+Beyond academia, my interests include economic history, hiking, socially significant music and petty discoveries in life. Brought up in the innovative city Shenzhen, I am conceived in progressive liberalism and cosmopolitanism.
 
 Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Complete-May2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/Resume-ChuyaoWANG-LSE-May2022.pdf) (professional) here. Please also [email me](<mailto: chuyao.wang@connect.ust.hk>) or add my WeChat at WCY18217712639 to get connected if you are interested.
