@@ -1,7 +1,10 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: "1"
+widget_id: "1"
 headless: true
+weight: 50
+design:
+  background:
+    image: lse_logo.svg.png
 ---
