@@ -8,6 +8,6 @@ weight: 10
 title: ""
 design:
   background:
-    image: ""
+    image: lse校徽.png
     image_darken: 0
 ---
