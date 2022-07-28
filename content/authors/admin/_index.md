@@ -18,9 +18,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wang_chuyao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Jezzffihuter
 organizations:
   - name: Division of Social Science, HKUST
     url: https://sosc.hkust.edu.hk/
