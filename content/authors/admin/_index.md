@@ -1,7 +1,7 @@
 ---
 title: Chuyao WANG
 role: Student in computational social science
-avatar_filename: avatar.jpg
+avatar_filename: chuyao-wang-1_1.jpg
 bio: ""
 interests:
   - Applied Data Science
