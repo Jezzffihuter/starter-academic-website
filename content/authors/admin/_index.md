@@ -43,7 +43,7 @@ Welcome! I am a prospective Ph.D. in [Social Research Methods](https://www.lse.a
 
 I received my M.Phil. in [Social Science](https://sosc.hkust.edu.hk/teaching_learning/mphil_social_science) (Social Statistics) with [Postgraduate Studentship](https://pg.ust.hk/current-students/awards-and-grants/postgraduate-studentship) (HK$430,000) and my M.Sc. in [Global China Studies](https://shss.hkust.edu.hk/tpg/mgcs/index) from HKUST. I obtained a B.A. in [History](http://en.history.sdu.edu.cn/info/1006/1013.htm) from Shandong University in China. I am grateful for my interdisciplinary background and diverse methods training. 
 
-My research are broadly about public opinion, social networks, and image as data. I presented and led a funded project in the [Summer Institute in Computational Social Science](https://sicss.io/) (2021). I﻿ gained internships in strategic consulting and investment analysis from Boston Consulting Group, ByteDance and the government.
+My research are broadly about s﻿ocial data science, public opinion, and social networks. I presented and led a funded project in the [Summer Institute in Computational Social Science](https://sicss.io/) (2021). I﻿ gained internships in strategic consulting and investment analysis from Boston Consulting Group, ByteDance and the government.
 
 I am conceived in liberty and cosmopolitanism. I enjoy meeting people and collaborating with others. My interests include reading, hiking, socially significant music and petty discoveries in life. 
 
