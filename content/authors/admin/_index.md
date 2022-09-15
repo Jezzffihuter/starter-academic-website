@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chuyao.wang@connect.ust.hk
+    link: mailto:c.wang85@lse.ac.uk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/wang-chuyao/
