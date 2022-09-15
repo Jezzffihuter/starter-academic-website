@@ -6,5 +6,5 @@ headless: true
 weight: 50
 design:
   background:
-    image: lse_logo.svg.png
+    image: ""
 ---
