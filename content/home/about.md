@@ -8,6 +8,6 @@ weight: 10
 title: ""
 design:
   background:
-    image: lse_logo.svg.png
+    image: ""
     image_darken: 0
 ---
