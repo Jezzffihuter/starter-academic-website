@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/wang_chuyao
 organizations:
-  - name: Division of Social Science, HKUST
-    url: https://sosc.hkust.edu.hk/
+  - name: Department of Methodology, LSE
+    url: https://www.lse.ac.uk/methodology
 education:
   courses:
     - course: Doctor of Philosophy in Social Research Methods (Applied Data Science)
