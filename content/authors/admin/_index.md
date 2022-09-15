@@ -47,4 +47,4 @@ My research are broadly about s﻿ocial data science, public opinion, and social
 
 I am conceived in liberty and cosmopolitanism. I enjoy meeting people and collaborating with others. My interests include reading, hiking, socially significant music and petty discoveries in life. 
 
-Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Complete-May2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/Resume-ChuyaoWANG-LSE-May2022.pdf) (professional) here. Please also [email me](<mailto: chuyao.wang@connect.ust.hk>) or add my WeChat at WCY18217712639 to get connected if you are interested.
+Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/CV-ChuyaoWANG-Complete-May2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/Resume-ChuyaoWANG-LSE-May2022.pdf) (professional) here. Please also [email me](<mailto: c.wang85@lse.ac.uk>) or add my WeChat at WCY18217712639 to get connected if you are interested.
