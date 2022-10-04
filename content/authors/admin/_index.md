@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:c.wang85@lse.ac.uk
+    link: mailto:C.Wang85@lse.ac.uk
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/wang-chuyao/
@@ -45,4 +45,4 @@ I received my M.Phil. in [Social Science](https://sosc.hkust.edu.hk/teaching_lea
 
 I﻿ gained internships in strategic consulting and investment analysis from Boston Consulting Group, ByteDance and the government. Conceived in liberty and cosmopolitanism, I enjoy meeting and collaborating with people. My interests include livehouse, hiking, socially significant music and petty discoveries in life.  
 
-Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/ChuyaoWANG-LSE-CompleteCV-Sept2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/ChuyaoWANG-LSE-Resume-Sept2022.pdf) (professional) here. Please also [email me](<mailto: c.wang85@lse.ac.uk>) or add my WeChat at WCY18217712639 to get connected if you are interested.
+Please find my [CV](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/ChuyaoWANG-LSE-CompleteCV-Sept2022.pdf) (academic) or [Resume](https://github.com/Jezzffihuter/starter-academic-website/blob/master/static/uploads/ChuyaoWANG-LSE-Resume-Sept2022.pdf) (professional) here. Please also [email me](<mailto: C.Wang85@lse.ac.uk>) or add my WeChat at WCY18217712639 to get connected if you are interested.
