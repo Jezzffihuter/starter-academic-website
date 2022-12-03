@@ -35,7 +35,7 @@ education:
     - course: Bachelor of Art in History
       institution: Shandong University
       year: 2020
-email: chuyao.wang@connect.ust.hk
+email: C.Wang85@lse.ac.uk
 superuser: true
 highlight_name: false
 ---
